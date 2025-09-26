@@ -1,0 +1,1043 @@
+[
+    {
+        "word": "Scholarship",
+        "word_type": "Noun",
+        "definition": "(an award of financial support for a student to pursue their higher education).",
+        "examples": [
+            "He won a scholarship at the age of 16 and was teaching physics at 19.",
+            "She won a scholarship to study law at Harvard University."
+        ]
+    },
+    {
+        "word": "Admission",
+        "word_type": "Noun",
+        "definition": "(the act of accepting or allowing someone to enter a place or organization).",
+        "examples": [
+            "Many students qualify for admission to the university this year.",
+            "He submitted an application for admission to the university.",
+            "She applied for admission to the club."
+        ]
+    },
+    {
+        "word": "Grant",
+        "word_type": "Verb",
+        "definition": "(an amount of money is given to be used for a particular purpose such as education research).",
+        "examples": [
+            "The college awarded him a grant of $50,000 to study law at Harvard University.",
+            "He was granted money to buy a house."
+        ]
+    },
+    {
+        "word": "Learning environment",
+        "word_type": "Noun",
+        "definition": "(the whole range of conditions and activities in which learning happens).",
+        "examples": [
+            "The trust and bond between a teacher and students create a perfect learning environment.",
+            "My school is the perfect learning environment."
+        ]
+    },
+    {
+        "word": "Study abroad",
+        "word_type": "Verb",
+        "definition": "(the act of going to a foreign country to study).",
+        "examples": [
+            "I am going to study abroad next year, but I don't know where.",
+            "Study abroad nowadays is one of the fastest ways to enter and settle in your favorite countries."
+        ]
+    },
+    {
+        "word": "Gap year",
+        "word_type": "Noun",
+        "definition": "(a year between leaving high school and starting university that someone spends on working or travelling).",
+        "examples": [
+            "Some students decide to take a gap year before they begin university.",
+            "After finishing school, she took a gap year and travelled through the UK and Canada."
+        ]
+    },
+    {
+        "word": "Gossip",
+        "word_type": "Verb",
+        "definition": "(to have a casual conversation).",
+        "examples": [
+            "She's always gossiping.",
+            "I like having a good gossip now and then."
+        ]
+    },
+    {
+        "word": "Bookworm",
+        "word_type": "Noun",
+        "definition": "(someone who spends a lot of time reading).",
+        "examples": [
+            "My brother is a bookworm. He is always reading.",
+            "I am not a bookworm. I do not like to read."
+        ]
+    },
+    {
+        "word": "Distance learning",
+        "word_type": "Noun",
+        "definition": "(a system of education in which teachers and students do not meet in a classroom but use the Internet or TV programmes and e-mail to have classes).",
+        "examples": [
+            "It is possible for pupils in rural communities to take advantage of distance learning educational programmes.",
+            "Thanks to distance learning, many students no longer have to attend classes in person, but can study online."
+        ]
+    },
+    {
+        "word": "Enroll in",
+        "word_type": "Verb",
+        "definition": "(to register, or enter in a list for an activity or for membership in a group).",
+        "examples": [
+            "Mary has enrolled in an advanced painting class last week in order to improve her craft.",
+            "There are currently over 500 students enrolled in our French Language Program."
+        ]
+    },
+    {
+        "word": "To play truant = to skive off",
+        "word_type": "Verb",
+        "definition": "(to purposefully not attend a class without permission).",
+        "examples": [
+            "It is bad news when youngsters begin to play truant from school.",
+            "He often played truant and wrote his own sick notes."
+        ]
+    },
+    {
+        "word": "Absent",
+        "word_type": "Adjective",
+        "definition": "(not present in a place where you are expected to be).",
+        "examples": [
+            "He is often absent from school.",
+            "She has been absent from his desk for two weeks."
+        ]
+    },
+    {
+        "word": "Do an exam = sit an exam = take an exam",
+        "word_type": "Verb",
+        "definition": "(to do a test).",
+        "examples": [
+            "I have to sit an exam next week.",
+            "I'm taking my English exam tomorrow."
+        ]
+    },
+    {
+        "word": "To retake a course",
+        "word_type": "Verb",
+        "definition": "(to do a course again because you have failed it the first time).",
+        "examples": [
+            "Students do not need special permission to retake a course.",
+            "May I retake a course for a higher grade?"
+        ]
+    },
+    {
+        "word": "Enforcement",
+        "word_type": "Noun",
+        "definition": "(the act of compelling people obey a particular law or rule).",
+        "examples": [
+            "He works in law enforcement.",
+            "The enforcement of laws relating to environmental protection has always been difficult."
+        ]
+    },
+    {
+        "word": "At a slow /leisurely pace",
+        "word_type": "Expression",
+        "definition": "(at an unhurried, relaxed, slow speed).",
+        "examples": [
+            "Let's start at a slow pace.",
+            "We could walk the entire distance at a slow pace.",
+            "We strolled along at a leisurely pace."
+        ]
+    },
+    {
+        "word": "A formal examination",
+        "word_type": "Noun",
+        "definition": "(a test conducted under strict, regulated conditions).",
+        "examples": [
+            "She had to take a formal examination before she could graduate.",
+            "He is preparing for her certification examination."
+        ]
+    },
+    {
+        "word": "To drop out of college",
+        "word_type": "Verb",
+        "definition": "(to leave college or university before you have finished your studies).",
+        "examples": [
+            "Too many students drop out of college after only one year.",
+            "He dropped out of college after his first semester because of money.",
+            "She dropped out of college in her second year."
+        ]
+    },
+    {
+        "word": "Preschooler",
+        "word_type": "Noun",
+        "definition": "(a child not yet old enough to go to school).",
+        "examples": [
+            "I wanted to see how far my son's concepts went in math when he was a preschooler.",
+            "When I was a preschooler, I had a dentist named Dr. Williams."
+        ]
+    },
+    {
+        "word": "Vocational school",
+        "word_type": "Noun",
+        "definition": "(a school which provides students with the special skills and education that they need to do a particular job).",
+        "examples": [
+            "The curriculum at a vocational school is more career-focused.",
+            "The vocational school provides education for young people so that they can qualify themselves."
+        ]
+    },
+    {
+        "word": "Productive",
+        "word_type": "Adjective",
+        "definition": "(producing or achieving a lot of results).",
+        "examples": [
+            "I had a very productive day of working yesterday.",
+            "Our last meeting was very productive."
+        ]
+    },
+    {
+        "word": "Primary school",
+        "word_type": "Noun",
+        "definition": "(a school for children between the ages of five and eleven).",
+        "examples": [
+            "Learning to write is one of the most important things that a child at primary school will learn.",
+            "My sister is a primary school teacher.",
+            "I have studied English since I was in a primary school."
+        ]
+    },
+    {
+        "word": "Secondary school",
+        "word_type": "Noun",
+        "definition": "(a school for children who are aged from 11, 16 to 18).",
+        "examples": [
+            "She taught history at a secondary school.",
+            "When I was in a secondary school, all I ever wanted is a job to pay all the bills."
+        ]
+    },
+    {
+        "word": "Postgraduate school",
+        "word_type": "Noun",
+        "definition": "(a school that awards advanced academic degrees).",
+        "examples": [
+            "He finally earned a Master degree in post-graduate school.",
+            "She is a full-time student on post-graduate school."
+        ]
+    },
+    {
+        "word": "Attentive",
+        "word_type": "Adjective",
+        "definition": "(paying close attention to something).",
+        "examples": [
+            "He is an attentive student.",
+            "Mary asked Tom to be attentive during meetings.",
+            "The speaker likes to have an attentive audience."
+        ]
+    },
+    {
+        "word": "To master a language",
+        "word_type": "Verb",
+        "definition": "(to learn or understand a language completely).",
+        "examples": [
+            "If you want to master a language, you need to learn to think in that language.",
+            "In order to master a language, you must Listen, Read, Speak, Write, in that order."
+        ]
+    },
+    {
+        "word": "Linguistic ability",
+        "word_type": "Noun",
+        "definition": "(the ability to master other languages).",
+        "examples": [
+            "Her linguistic ability served her well in her chosen profession.",
+            "The new recruit was tested to have good linguistic ability."
+        ]
+    },
+    {
+        "word": "To speak fluently",
+        "word_type": "Verb",
+        "definition": "(to speak easily and quickly).",
+        "examples": [
+            "The students were trained to speak fluently and without unnecessary hesitations.",
+            "She speaks several languages fluently."
+        ]
+    },
+    {
+        "word": "To take up a language",
+        "word_type": "Verb",
+        "definition": "(to start to study a language).",
+        "examples": [
+            "I've decided to take up a language.",
+            "It's just as important to take up a language you enjoy since it would be helpful in everyday life."
+        ]
+    },
+    {
+        "word": "Transmission of knowledge",
+        "word_type": "Noun",
+        "definition": "(the process of passing knowledge from one person to another).",
+        "examples": [
+            "Universities are involved in the production and transmission of knowledge.",
+            "It's a cultural transmission of knowledge from generation to generation."
+        ]
+    },
+    {
+        "word": "Intensive",
+        "word_type": "Adjective",
+        "definition": "(involving a lot of work, effort or activity done in a short period of time).",
+        "examples": [
+            "An intensive course of treatment will take at least several days.",
+            "This is an intensive course in business writing."
+        ]
+    },
+    {
+        "word": "To pay attention to",
+        "word_type": "Verb",
+        "definition": "(to think about, work on, watch, or listen to someone or something carefully).",
+        "examples": [
+            "He didn't pay attention to details.",
+            "She's never paid that much attention to his opinions.",
+            "He paid no attention to her warning."
+        ]
+    },
+    {
+        "word": "Focus on",
+        "word_type": "Verb",
+        "definition": "(to put a lot of your attention on one thing).",
+        "examples": [
+            "He focused on his studies.",
+            "She focused on her work."
+        ]
+    },
+    {
+        "word": "Background",
+        "word_type": "Noun",
+        "definition": "(the details of a person's family, education, career, wealth).",
+        "examples": [
+            "Poverty can affect anyone, regardless of age, race, gender or social background.",
+            "Despite their different social backgrounds, they became good friends."
+        ]
+    },
+    {
+        "word": "Progress rapidly",
+        "word_type": "Verb",
+        "definition": "(to grow, improve or develop very quickly).",
+        "examples": [
+            "Many children who make a slow start but then make progress rapidly.",
+            "Julia progresses rapidly in her music lessons."
+        ]
+    },
+    {
+        "word": "Adapt",
+        "word_type": "Verb",
+        "definition": "(to change something so that it is suitable for a new use or purpose, or in a new situation).",
+        "examples": [
+            "Tom soon adapted himself to school life.",
+            "The young adapted themselves to the change quickly."
+        ]
+    },
+    {
+        "word": "Interactive",
+        "word_type": "Adjective",
+        "definition": "((of two or more people or things) acting with each other).",
+        "examples": [
+            "The class was very interactive during the class discussion.",
+            "The training was very interactive.",
+            "Her classes were very interactive; students were reading, writing, talking, and reflecting in meaningful ways."
+        ]
+    },
+    {
+        "word": "Face-to-face learning",
+        "word_type": "Noun",
+        "definition": "(to study in the traditional way, with the teacher and students present in the room).",
+        "examples": [
+            "In his opinion, face to face learning will benefit the learner the most.",
+            "They preferred face-to-face learning for communication purposes.",
+            "Learning activities still take place in a face-to-face learning scenario."
+        ]
+    },
+    {
+        "word": "To give feedback",
+        "word_type": "Verb",
+        "definition": "(to give comments (how well or badly), corrections or information about a person's performance of a task).",
+        "examples": [
+            "I liked the way the professor gave feedbacks to his students.",
+            "Once he found a mistake on the unfinished release draft, he gave feedbacks and corrections immediately."
+        ]
+    },
+    {
+        "word": "Interactive learning",
+        "word_type": "Noun",
+        "definition": "(refers to a method of teaching and learning in which teachers encourage students to be part of the lesson instead of passive observers (teachers and students acting with each other)).",
+        "examples": [
+            "Interactive learning is a hands-on approach to help students become more engaged and retain more material.",
+            "Each class has been designed to maximise interactive learning, deliberation, and reflection."
+        ]
+    },
+    {
+        "word": "Higher education",
+        "word_type": "Noun",
+        "definition": "(education beyond high school, usually provided by a college or university).",
+        "examples": [
+            "Some school leavers prefer to start work rather than enter higher education.",
+            "My brother moved to the United Kingdom (UK) to continue his higher education."
+        ]
+    },
+    {
+        "word": "A vocational course",
+        "word_type": "Noun",
+        "definition": "(a course which provides students with the skills and education that they need to do a particular job).",
+        "examples": [
+            "For every four students who start a vocational course in upper secondary, one drops out.",
+            "Peter chose a vocational course at the secondary level."
+        ]
+    },
+    {
+        "word": "To disrupt lessons",
+        "word_type": "Verb",
+        "definition": "(to interrupt the lesson by causing a disturbance or problem).",
+        "examples": [
+            "There are many reasons why pupils disrupt lessons.",
+            "It's very hard to call out pupils who consistently talk or disrupt lessons if you don't know their names."
+        ]
+    },
+    {
+        "word": "Mandatory",
+        "word_type": "Adjective",
+        "definition": "(required, compulsory).",
+        "examples": [
+            "It is mandatory that all students take two years of English.",
+            "It is mandatory to comply with the legislation."
+        ]
+    },
+    {
+        "word": "Educational",
+        "word_type": "Adjective",
+        "definition": "(relating to education).",
+        "examples": [
+            "I found our trip very educational.",
+            "Watching television can be very educational.",
+            "Science programs are very educational and interesting for both children and adults."
+        ]
+    },
+    {
+        "word": "Academic",
+        "word_type": "Adjective",
+        "definition": "(relating to education, schools, universities, and scholarship).",
+        "examples": [
+            "These phrases are more suitable for academic essays.",
+            "He's certainly bright, but he's not very academic."
+        ]
+    },
+    {
+        "word": "Learning atmosphere",
+        "word_type": "Noun",
+        "definition": "(the mood or feeling that exists in a class and affects the students who are there).",
+        "examples": [
+            "Games offer students a fun-filled and relaxing learning atmosphere.",
+            "New emerging technology makes learning atmosphere pleasant and conductive."
+        ]
+    },
+    {
+        "word": "Extra-curricular activities",
+        "word_type": "Noun",
+        "definition": "(not falling within the scope of a regular course, work or studies in school or college).",
+        "examples": [
+            "The students took a lot of interest in extra-curricular activities.",
+            "We have extra-curricular activities after school."
+        ]
+    },
+    {
+        "word": "Lecturer",
+        "word_type": "Noun",
+        "definition": "(a person who gives lectures at a college or university).",
+        "examples": [
+            "The lecturer illustrated his point with a diagram on the blackboard.",
+            "The lecturer would end up her speech with a joke."
+        ]
+    },
+    {
+        "word": "Academic subject",
+        "word_type": "Noun",
+        "definition": "(subjects relating to education, schools, universities, etc).",
+        "examples": [
+            "History is an academic subject.",
+            "We've learnt a variety of academic subjects."
+        ]
+    },
+    {
+        "word": "Do badly in an exam",
+        "word_type": "Verb",
+        "definition": "(if you do badly in an exam it is because the test was too hard).",
+        "examples": [
+            "She is a good student. She's never done badly in an exam.",
+            "Have you ever done badly in an exam?"
+        ]
+    },
+    {
+        "word": "Transcript",
+        "word_type": "Noun",
+        "definition": "(a detailed record of student's marks or grades that they have received at a school).",
+        "examples": [
+            "If the student wants a copy of his transcript, he should go to the Registrar's Office.",
+            "Each applicant must submit his transcript with his application."
+        ]
+    },
+    {
+        "word": "Internship",
+        "word_type": "Noun",
+        "definition": "( a temporary job that a student or new graduate takes in order to get practical experience in the area they want to work in).",
+        "examples": [
+            "Your ability to write about your internship experience on your resume is incredibly important.",
+            "Jane has a summer internship at a local TV station."
+        ]
+    },
+    {
+        "word": "Extracurricular activities",
+        "word_type": "Noun",
+        "definition": "( activities that students do at school or college that are not part of their course).",
+        "examples": [
+            "We have extracurricular activities after school.",
+            "Generally, volunteer activities aren't always extracurricular activities."
+        ]
+    },
+    {
+        "word": "Social and cultural life",
+        "word_type": "Noun",
+        "definition": "(ways of life).",
+        "examples": [
+            "Advertisements have greatly affected our social and cultural life.",
+            "Ethiopia's coffee ceremony is an integral part of their social and cultural life."
+        ]
+    },
+    {
+        "word": "Tuition fees",
+        "word_type": "Noun",
+        "definition": "(the amount of money that you pay for your education).",
+        "examples": [
+            "Tuition fees are free and the teaching methods and facilities are great.",
+            "The tuition fees went up this year."
+        ]
+    },
+    {
+        "word": "Grant",
+        "word_type": "Verb",
+        "definition": "(to allow someone to do or have what they want).",
+        "examples": [
+            "Did they grant Tom permission to leave?",
+            "He was granted a patent on his invention.",
+            "He was granted admission to the university."
+        ]
+    },
+    {
+        "word": "Dormitory",
+        "word_type": "Noun",
+        "definition": "(a large room where a lot of people in a school or institution sleep).",
+        "examples": [
+            "He lived in a college dormitory.",
+            "She was reading a math textbook in the dormitory.",
+            "He hangs out in the school dormitory."
+        ]
+    },
+    {
+        "word": "Reach one's full potential",
+        "word_type": "Verb",
+        "definition": "(to take great effort and self-discipline).",
+        "examples": [
+            "We will help your child reach his full potential.",
+            "Our hope for Bill is that he will reach his full potential."
+        ]
+    },
+    {
+        "word": "Bachelor's degree",
+        "word_type": "Noun",
+        "definition": "(a first university degree (a degree awarded by a college or university)).",
+        "examples": [
+            "It took him six years to get his bachelor's degree in math.",
+            "I graduated from City University with a bachelor's degree in law."
+        ]
+    },
+    {
+        "word": "Hit the books",
+        "word_type": "Verb",
+        "definition": "(to study very hard).",
+        "examples": [
+            "I have to go home and hit the books because I have a big test tomorrow.",
+            "It's time to hit the books."
+        ]
+    },
+    {
+        "word": "Master's degree",
+        "word_type": "Noun",
+        "definition": "(an advanced college or university degree, which follows after bachelor's degree).",
+        "examples": [
+            "I have got a Master's degree in Business Administration.",
+            "He got his master's degree three years ago."
+        ]
+    },
+    {
+        "word": "Mature student",
+        "word_type": "Noun",
+        "definition": "(a student at a college or university who's older than others).",
+        "examples": [
+            "He studied law as a mature student.",
+            "## There are many benefits to being a mature student."
+        ]
+    },
+    {
+        "word": "Public schools",
+        "word_type": "Noun",
+        "definition": "(a school that is supported and paid for by the government).",
+        "examples": [
+            "## He was educated at a public school.",
+            "My son finished a public school a few years ago."
+        ]
+    },
+    {
+        "word": "Schoolboy error",
+        "word_type": "Noun",
+        "definition": "(a very simple, basic and foolish mistake).",
+        "examples": [
+            "Lucy made a schoolboy error on her English test.",
+            "Tom made a schoolboy error by accepting a lunch invitation from a journalist."
+        ]
+    },
+    {
+        "word": "Single-sex schools",
+        "word_type": "Noun",
+        "definition": "(schools that have only one sex (for either boys or girls)).",
+        "examples": [
+            "My sister happily attended a single-sex school for 6 years.",
+            "I would never send my kids to a single-sex school."
+        ]
+    },
+    {
+        "word": "To attend classes",
+        "word_type": "Verb",
+        "definition": "(to go to classes).",
+        "examples": [
+            "In European universities, students are not required to attend classes.",
+            "Do not waste your money on tuition if you are not even going to attend classes.",
+            "Some students may not be able to pass the test in class because they don't attend classes regularly."
+        ]
+    },
+    {
+        "word": "To learn something by heart",
+        "word_type": "Verb",
+        "definition": "(to memorize something).",
+        "examples": [
+            "You should try to learn by heart these English words and phrases.",
+            "The boy learned the poem by heart."
+        ]
+    },
+    {
+        "word": "To meet a deadline",
+        "word_type": "Verb",
+        "definition": "(to finish something in time (by or before it is due)).",
+        "examples": [
+            "I'm trying to meet a deadline.",
+            "Do you take personal responsibility for failing to meet a deadline?"
+        ]
+    },
+    {
+        "word": "To pass with flying colours",
+        "word_type": "Verb",
+        "definition": "(to achieve, or accomplish something very successfully).",
+        "examples": [
+            "He is studying hard and he will pass IELTS with flying colours.",
+            "He passed his exams with flying colours.",
+            "She passed her job interview with flying colours."
+        ]
+    },
+    {
+        "word": "To pursue studying",
+        "word_type": "Verb",
+        "definition": "(to follow a course (education)).",
+        "examples": [
+            "Peter would like to pursue studies in the future to become a lawyer.",
+            "She wants to pursue studying after high school."
+        ]
+    },
+    {
+        "word": "To take a year out",
+        "word_type": "Verb",
+        "definition": "(to spend one year working to gain more valuable experience).",
+        "examples": [
+            "Many graduates want to take a year out to save the money they need to embark on a course of further study.",
+            "My son took a year out and went traveling to Japan.",
+            "She took a year out to travel around South America."
+        ]
+    },
+    {
+        "word": "Concentrate",
+        "word_type": "Verb",
+        "definition": "(to give full your attention to something).",
+        "examples": [
+            "He couldn't concentrate on his lessons. His mind was on other things.",
+            "You might need to concentrate on what you're reading in order to understand it.",
+            "If you make so much noise, I can't concentrate on my homework."
+        ]
+    },
+    {
+        "word": "Distraction",
+        "word_type": "Noun",
+        "definition": "(something that prevents you from giving full attention to something else).",
+        "examples": [
+            "He worked hard all morning, without distraction.",
+            "The baby's constant crying drove me to distraction.",
+            "My kids drive me to distraction at times."
+        ]
+    },
+    {
+        "word": "Thesis",
+        "word_type": "Noun",
+        "definition": "(a long piece of writing that is submitted in support of candidature for an academic degree).",
+        "examples": [
+            "Sarah has been working on her thesis for over a year and she still has lots of work to do.",
+            "Lucy wrote her doctoral thesis on contemporary Germany literature."
+        ]
+    },
+    {
+        "word": "Assignment",
+        "word_type": "Noun",
+        "definition": "(work that you must do as part of a job or course of study).",
+        "examples": [
+            "I'm feeling much more confident in doing my first college assignment.",
+            "He stayed up all night finishing his assignment.",
+            "The student apologized for handing in his assignment late due to his illness."
+        ]
+    },
+    {
+        "word": "Controversy",
+        "word_type": "Noun",
+        "definition": "(a disagreement or argument about something).",
+        "examples": [
+            "His views have excited a lively controversy among fellow scientists.",
+            "His latest book has attracted a lot of controversy."
+        ]
+    },
+    {
+        "word": "Theoretical",
+        "word_type": "Adjective",
+        "definition": "(based on theories or ideas that relate to a subject instead of on practical application).",
+        "examples": [
+            "The training is practical rather than theoretical.",
+            "## The course is designed to be practical rather than theoretical."
+        ]
+    },
+    {
+        "word": "To be poor at something",
+        "word_type": "Verb",
+        "definition": "(not to be good at something).",
+        "examples": [
+            "I am poor at drawing.",
+            "## He is very poor at maths at school."
+        ]
+    },
+    {
+        "word": "Certificate",
+        "word_type": "Noun",
+        "definition": "(an official document shows that an educational program has been completed).",
+        "examples": [
+            "The language certificate has three levels: basic, intermediate and advanced.",
+            "TOEFL, TOEIC and IELTS are English certificates which aim for academic use and are widely used around the world."
+        ]
+    },
+    {
+        "word": "Diploma",
+        "word_type": "Noun",
+        "definition": "(a document given by a college or university to show that you have completed an educational program (finished your studies)).",
+        "examples": [
+            "Have you actually seen Tom's diploma?",
+            "He is a commerce graduate with a diploma in computer applications."
+        ]
+    },
+    {
+        "word": "Degree",
+        "word_type": "Noun",
+        "definition": "(the qualification that you get after completing a course of study at a university).",
+        "examples": [
+            "It took him six years to get his bachelor's degree in math.",
+            "My sister got her law degree in 2010."
+        ]
+    },
+    {
+        "word": "To resit an exam",
+        "word_type": "Verb",
+        "definition": "(to take an examination again).",
+        "examples": [
+            "The teacher forced him to resit the exam the week after.",
+            "Pupils who score less than 5 marks have to resit the test."
+        ]
+    },
+    {
+        "word": "Skip classes",
+        "word_type": "Verb",
+        "definition": "(to miss a class or not go to a class for some reason).",
+        "examples": [
+            "He often skips classes.",
+            "Bullied students tend to skip classes because they feel uncomfortable at school."
+        ]
+    },
+    {
+        "word": "Memorable",
+        "word_type": "Adjective",
+        "definition": "(something or event that is easily remembered, usually because it is special or unusual).",
+        "examples": [
+            "His wedding was a memorable event for all.",
+            "Graduation ceremony is a memorable event for all students."
+        ]
+    },
+    {
+        "word": "Specialty",
+        "word_type": "Noun",
+        "definition": "(a special field of study).",
+        "examples": [
+            "Her specialty is English literature.",
+            "His specialty is criminal law."
+        ]
+    },
+    {
+        "word": "To gain",
+        "word_type": "Verb",
+        "definition": "(to receive, to get).",
+        "examples": [
+            "An internship will help students gain experience.",
+            "Reading books is a way to gain knowledge."
+        ]
+    },
+    {
+        "word": "Schedule",
+        "word_type": "Noun",
+        "definition": "(a plan for doing a list of things at certain times).",
+        "examples": [
+            "He always has a full schedule.",
+            "She has been forced to adjust her schedule."
+        ]
+    },
+    {
+        "word": "Inspiring",
+        "word_type": "Adjective",
+        "definition": "(to be exciting and makes someone feel strongly interested in).",
+        "examples": [
+            "What he said at the meeting today was very inspiring.",
+            "I find these quotes very inspiring."
+        ]
+    },
+    {
+        "word": "Rewarding",
+        "word_type": "Adjective",
+        "definition": "(providing someone with satisfaction, pleasure, or profit).",
+        "examples": [
+            "Teaching young children is a challenging and rewarding job.",
+            "I find learning languages to be very rewarding."
+        ]
+    },
+    {
+        "word": "Vocational training",
+        "word_type": "Noun",
+        "definition": "(training that emphasizes skills and knowledge required for a particular job).",
+        "examples": [
+            "Although vocational training is career-oriented, a few types of professions require a college degree."
+        ]
+    },
+    {
+        "word": "Unwind",
+        "word_type": "Adjective",
+        "definition": "(to relax after hours of hard work).",
+        "examples": [
+            "Listening to music helps me to unwind after a busy day at work.",
+            "Meditation is a tool that can help people unwind and let go of stress."
+        ]
+    },
+    {
+        "word": "Encouraging",
+        "word_type": "Adjective",
+        "definition": "(giving someone confidence or hope about something).",
+        "examples": [
+            "He sent me an encouraging message.",
+            "A coach is encouraging his team.",
+            "Parents often use encouraging words to motivate their children to achieve high standards."
+        ]
+    },
+    {
+        "word": "Strict",
+        "word_type": "Adjective",
+        "definition": "(if you are strict, you have definite rules and expect people to obey completely).",
+        "examples": [
+            "Her English teacher is very strict.",
+            "Both of my parents are not strict with me."
+        ]
+    },
+    {
+        "word": "Supportive",
+        "word_type": "Adjective",
+        "definition": "(giving someone support, encouragement, and advice).",
+        "examples": [
+            "My girlfriend was very supportive when I was ill.",
+            "His boss was very supportive and gave him time off work."
+        ]
+    },
+    {
+        "word": "Keep track of",
+        "word_type": "Verb",
+        "definition": "(to keep an eye on something).",
+        "examples": [
+            "I can't keep track of the new music.",
+            "Bank statements help you keep track of where your money is going."
+        ]
+    },
+    {
+        "word": "Strive",
+        "word_type": "Verb",
+        "definition": "(to make great efforts to achieve something).",
+        "examples": [
+            "We must strive to secure steady growth.",
+            "He strove very hard to remain calm."
+        ]
+    },
+    {
+        "word": "Break",
+        "word_type": "Verb",
+        "definition": "(a short period of time for relaxation).",
+        "examples": [
+            "## Let's take a short break.",
+            "We usually have a short break for lunch, then start to work again at 2 o'clock."
+        ]
+    },
+    {
+        "word": "Sincerity",
+        "word_type": "Noun",
+        "definition": "(the fact of showing your honesty of mind).",
+        "examples": [
+            "## He impressed her with his sincerity.",
+            "If you question her sincerity, do not ask for her help."
+        ]
+    },
+    {
+        "word": "(To) disclose",
+        "word_type": "Verb",
+        "definition": "(to give someone or reveal information about something).",
+        "examples": [
+            "I can't disclose that information yet.",
+            "## He disclosed to me that he had been in prison."
+        ]
+    },
+    {
+        "word": "(To) recall",
+        "word_type": "Verb",
+        "definition": "(to remember something that happened in the past).",
+        "examples": [
+            "I can't recall his name at the moment.",
+            "## I failed to recall the book's title."
+        ]
+    },
+    {
+        "word": "A heavy workload",
+        "word_type": "Noun",
+        "definition": "(a large amount of work or many tasks to perform).",
+        "examples": [
+            "Due to the heavy workload, many employees suffer from depression.",
+            "He's struggling to cope with the heavy workload."
+        ]
+    },
+    {
+        "word": "Bullying",
+        "word_type": "Verb",
+        "definition": "(using superior strength repeatedly and intentionally to frighten or hurt another person).",
+        "examples": [
+            "The older boy causes problems at school by bullying younger children.",
+            "Bullying isn't just done with kids, adults bully each other too."
+        ]
+    },
+    {
+        "word": "Competent",
+        "word_type": "Adjective",
+        "definition": "(to be capable of doing something well).",
+        "examples": [
+            "Tom is regarded as the most competent employee.",
+            "She is a competent teacher."
+        ]
+    },
+    {
+        "word": "Excel",
+        "word_type": "Verb",
+        "definition": "(to be extremely good at something).",
+        "examples": [
+            "He excels in sports and in many other activities.",
+            "Rebecca always excels in languages at school."
+        ]
+    },
+    {
+        "word": "To fall behind with your studies",
+        "word_type": "Verb",
+        "definition": "(to progress more slowly in studying than other people).",
+        "examples": [
+            "These students regularly miss classes and fall behind with their studies."
+        ]
+    },
+    {
+        "word": "To impose discipline",
+        "word_type": "Verb",
+        "definition": "(to make students obey the rules of a school or college).",
+        "examples": [
+            "The teacher misused his ability to impose discipline on his students."
+        ]
+    },
+    {
+        "word": "Attendance record",
+        "word_type": "Noun",
+        "definition": "(a record of how often someone has been present at an event or an institution).",
+        "examples": [
+            "He has a good attendance record.",
+            "Lucy, who is a fine student, has a perfect attendance record."
+        ]
+    },
+    {
+        "word": "Tertiary education/higher education",
+        "word_type": "Noun",
+        "definition": "(education for people at college or university level).",
+        "examples": [
+            "More than 50% of secondary school pupils going on to tertiary education.",
+            "Excessive alcohol used by tertiary education students is well documented."
+        ]
+    },
+    {
+        "word": "To accumulate",
+        "word_type": "Verb",
+        "definition": "(to gather or collect something gradually as time passes).",
+        "examples": [
+            "He accumulated a large fortune by hard work.",
+            "People tend to spend a greater proportion of their incomes when they accumulate more wealth."
+        ]
+    },
+    {
+        "word": "Bedtime reading",
+        "word_type": "Noun",
+        "definition": "(a book, novel etc read at bedtime).",
+        "examples": [
+            "Bedtime reading with your child can have a fantastic effect on enhancing your child's attention span.",
+            "Bedtime reading helps get children to sleep."
+        ]
+    },
+    {
+        "word": "Kindergarten = pre-school education",
+        "word_type": "Noun",
+        "definition": "",
+        "examples": [
+            "Can you remember your kindergarten teacher's name?",
+            "He and I have been friends since kindergarten."
+        ]
+    },
+    {
+        "word": "A native speaker",
+        "word_type": "Noun",
+        "definition": "(someone who has spoken a language since he/she was a baby and did not learn it as a foreign language).",
+        "examples": [
+            "Speak like a native speaker by using sentence stress in English.",
+            "He doesn't think it's necessary for him to sound like a native speaker, he just wants to be able to speak fluently."
+        ]
+    },
+    {
+        "word": "To have a good grasp of",
+        "word_type": "Verb",
+        "definition": "(to have a complete, clear understanding of something).",
+        "examples": [
+            "He doesn't have a good grasp of the principles yet.",
+            "After taking a year-long computer course, Peter had a good grasp of computer programming."
+        ]
+    }
+]
